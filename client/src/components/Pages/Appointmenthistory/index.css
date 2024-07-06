@@ -1,0 +1,6 @@
+.HistoryParent{width: 100vw; min-height: 100vw; padding: 20px;}
+.historyH1Div{display: flex; justify-content: center; align-items: center; margin-bottom: 20px; background-color: black; color: white;}
+.mainCard{border: 1px solid black; padding: 10px; border-radius: 10px;}
+.HistoryChild{display: flex; flex-wrap: wrap; gap: 10px; align-content: flex-start;}
+.btn{margin: 10px; border-radius: 12px; padding: 10px; outline: none; cursor: pointer;}
+.paraCl{margin:10px 0px}
